@@ -305,11 +305,26 @@ width: 95%
 }
 
 
-/**** Other res devices ****/
-@media (max-width: 767px) {
+/**** Small devices ****/
+@media (min-width: 480px) and (max-width: 767px) {
 .cat-image {
   height: 200px;
   width: 200px;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  }
+}
+
+/**** XS devices ****/
+@media (max-width: 479px) {
+  /* Header */
+  .cat-image {
+  height: 150px;
+  width: 150px;
   margin-bottom: 15px;
   position: relative;
   border: 2px solid #3F0C1F;

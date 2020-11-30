@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
 				"border",
 				"border-radius\tproperty"
 			],
@@ -59,7 +63,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3415,
+				"buffer_size": 3286,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 5940,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -97,11 +110,11 @@
 	},
 	"file_history":
 	[
-		"/E/test2/index.html",
 		"/C/Users/Cristiano/Desktop/chu/index.html",
-		"/C/Users/Cristiano/Desktop/chu/css/styles.css",
 		"/E/test3/index.html",
+		"/C/Users/Cristiano/Desktop/chu/css/styles.css",
 		"/E/test4/index.html",
+		"/E/test2/index.html",
 		"/E/test3/styles.css",
 		"/E/test2/css/styles.css",
 		"/E/test/css/styles.css",
@@ -111,7 +124,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -125,6 +138,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"emboss",
 			"box",
 			"#img-",
 			"#specials-tile",
@@ -150,7 +164,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -159,15 +173,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3415,
+						"buffer_size": 3286,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3278,
+								3278
 							]
 						],
 						"settings":
@@ -178,6 +192,36 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1372,
+								1372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

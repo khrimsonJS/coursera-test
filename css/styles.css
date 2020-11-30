@@ -15,7 +15,7 @@ h1 {
   color: white;
   padding: 30px;
   text-align: center;
-  font-size: 24pt;
+  font-size: 22pt;
   margin-top: 30px;
   text-shadow: 2px 2px 4px rgb(80, 80, 80);
 }
@@ -84,7 +84,9 @@ width: 95%
   background-color: rgb(180, 180, 180);
   box-shadow: 2px 5px 20px 2px rgb(150, 150, 150);
   text-shadow: 2px 2px 4px rgb(80, 80, 80);
-
+  font-size: 2em;
+  padding: 55px 0 50px 140px;
+  border: 2px solid rgb(120, 120, 120);
 }
 
 #logo-img {
@@ -96,13 +98,6 @@ width: 95%
   top: -9px;
   left: 8px;
   }
-
-.navtitle {
-    font-size: 2em;
-    padding: 55px 0 50px 140px;
-    border: 2px solid rgb(120, 120, 120);
-  }
-
 
 /*Large Devices*/
 
@@ -125,6 +120,9 @@ width: 95%
   top: 0;
   left: 0;
   }
+  h1 {
+    font-size: 3vw;
+  }
 }
 
 /*Small Devices*/
@@ -134,6 +132,10 @@ width: 95%
     padding: 55px 0 50px 0px;
     text-align: center;
   }
+  h1 {
+    font-size: 3vw;
+  }
+
 }
 
 /****   END HEADER    ****/

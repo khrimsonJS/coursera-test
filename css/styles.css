@@ -341,7 +341,7 @@ width: 95%
 
 
 .cat-image:hover {
-  box-shadow: 0 5px 10px 10px #ffffff;
+  box-shadow: 5px 5px 10px 10px #ffffff;
 }
 
 .cat-image span {

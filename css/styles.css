@@ -1,14 +1,16 @@
 body {
   font-family: Roboto, arial, sans-serif;
   box-sizing: border-box;
-  background-color: darkgrey;
+   background: rgb(230,230,230);
+  /*background: linear-gradient(180deg, rgba(254,254,254,1) 0%, rgba(101,100,100,1) 100%, rgba(255,255,255,1) 100%); 
+*/
   font-size: 12pt;
 
 }
 
 .row_container {
   width: 100%;
-  box-shadow: 100px 100px 100px 100px #dddddd;
+  /*box-shadow: 20px 20px 20px 100px #dddddd;*/
 }
 
 h1 {
@@ -339,7 +341,7 @@ width: 95%
 
 
 .cat-image:hover {
-  box-shadow: 0 1px 5px 1px #cccccc;
+  box-shadow: 0 1px 10px 10px #ffffff;
 }
 
 .cat-image span {

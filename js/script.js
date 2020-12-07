@@ -1,1 +1,1 @@
-window.alert("Screen W: " + window.screen.width + " H: " + window.screen.height +  " - Window W: " + window.innerWidth + " Window H: "+ innerHeight  );
+//window.alert("Screen W: " + window.screen.width + " H: " + window.screen.height +  " - Window W: " + window.innerWidth + " Window H: "+ innerHeight  );
